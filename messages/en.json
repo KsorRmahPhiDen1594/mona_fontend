@@ -1,0 +1,35 @@
+{
+    "HomePage": {
+        "heroTitle": "Bứt phá <span>tăng trưởng</span> với giải pháp thiết kế riêng",
+        "heroDescription": "80 Module cốt lõi và hơn 26.000 Ứng dụng tùy chỉnh, ERPViet đã dần thế chỗ hầu hết phần mềm quản trị doanh nghiệp riêng lẻ, giúp doanh nghiệp gia tăng doanh số bền vững trong dài hạn. ",
+        "OurServices": {
+            "highlighter": "Dịch vụ của chúng tôi",
+            "title": "Giải pháp trọn gói tiết kiệm thời gian - Chi phí",
+            "paragraph": "Chúng tôi sẽ lắng nghe mục tiêu của bạn và thực hiện cuộc kiểm toán miễn phí để xem liệu chúng ta có phù hợp để làm việc cùng nhau hay không."
+        },
+        "OurProcess": {
+            "highlighter": "Quy trình của chúng tôi",
+            "title": "Tại sao bạn nên thuê chúng tôi?",
+            "paragraph": "Bạn nên thuê chúng tôi vì 3 lý do",
+            "cards": [
+                {
+                    "title": "Proven Expertise Worldwide",
+                    "details": "Trusted by clients across the globe, we've delivered 700+ successful projects with 500+ glowing feedbacks. Our results-driven approach ensures your business gets the growth it deserves."
+                },
+                {
+                    "title": "Unmatched ROI Performance",
+                    "details": "Our tailored strategies consistently drive 3x-4x ROI. From scaling sales/leads to optimizing costs, we deliver real growth backed by data. We build websites that not only captivate your audience but also convert visitors into loyal customers, ensuring measurable growth for your business."
+                },
+                {
+                    "title": "Your Dedicated Growth Partner",
+                    "details": "We're not just service providers; we're partners in your success. Count on us for personalized solutions, ongoing support, and a relentless focus on scaling your business."
+                }
+            ]
+        },
+        "ProjectIdea": {
+            "title": "Have Any Project Idea?",
+            "description": "Let's discuss about your offshore project. We can help you with our skillful global team. You can take a free counseling session by scheduling a time.",
+            "button": "Get Started"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "HomePage": {
+        "heroTitle": "Chúng tôi tạo ra <span>giải pháp</span> theo yêu cầu để kinh doanh trực tuyến và phát triển",
+        "heroDescription": "Là một agency kỹ thuật số chuyên nghiệp, Sociomatic chuyên về Google Analytics, Quảng cáo Google, Phát triển Web và bảo trì tổng thể với ROI gấp 3–4 lần",
+        "OurServices": {
+            "highlighter": "Dịch vụ của chúng tôi",
+            "title": "Thấu hiểu doanh nghiệp của bạn",
+            "paragraph": "Chúng tôi sẽ lắng nghe mục tiêu của bạn và thực hiện kiểm tra miễn phí để xem chúng ta có phù hợp để hợp tác hay không."
+        },
+        "OurProcess": {
+            "highlighter": "Quy trình của chúng tôi",
+            "title": "Tại sao bạn nên thuê chúng tôi?",
+            "paragraph": "Bạn nên thuê chúng tôi vì 3 lý do",
+            "cards": [
+                {
+                    "title": "Chuyên môn đã được chứng minh trên toàn cầu",
+                    "details": "Được tin tưởng bởi khách hàng trên toàn thế giới, chúng tôi đã thực hiện hơn 700 dự án thành công và nhận được hơn 500 phản hồi tích cực. Phương pháp tiếp cận dựa trên kết quả của chúng tôi đảm bảo doanh nghiệp của bạn sẽ có sự tăng trưởng xứng đáng."
+                },
+                {
+                    "title": "Hiệu suất ROI không đối thủ",
+                    "details": "Chiến lược được cá nhân hóa của chúng tôi liên tục mang lại ROI 3x-4x. Từ việc mở rộng doanh thu/lượng khách hàng tiềm năng đến tối ưu hóa chi phí, chúng tôi mang đến sự phát triển thực sự được hỗ trợ bởi dữ liệu. Chúng tôi xây dựng các trang web không chỉ thu hút khán giả mà còn chuyển đổi khách truy cập thành khách hàng trung thành, đảm bảo sự phát triển đo lường được cho doanh nghiệp của bạn."
+                },
+                {
+                    "title": "Đối tác tăng trưởng tận tâm của bạn",
+                    "details": "Chúng tôi không chỉ là nhà cung cấp dịch vụ; chúng tôi là đối tác trong thành công của bạn. Hãy tin tưởng vào chúng tôi để có giải pháp cá nhân hóa, hỗ trợ liên tục và một sự tập trung không ngừng vào việc phát triển doanh nghiệp của bạn."
+                }
+            ]
+        },
+        "ProjectIdea": {
+            "title": "Có Ý Tưởng Dự Án Nào Không?",
+            "description": "Hãy cùng thảo luận về dự án ngoài khơi của bạn. Chúng tôi có thể giúp bạn với đội ngũ toàn cầu giàu kinh nghiệm. Bạn có thể nhận tư vấn miễn phí bằng cách đặt lịch hẹn.",
+            "button": "Bắt Đầu"
+        }
+    }
+}
